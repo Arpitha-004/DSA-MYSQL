@@ -141,6 +141,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Arpitha-004/DSA/tree/master/0125-valid-palindrome) |
+| [0812-rotate-string](https://github.com/Arpitha-004/DSA/tree/master/0812-rotate-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -179,4 +180,8 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Arpitha-004/DSA/tree/master/0238-product-of-array-except-self) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Arpitha-004/DSA/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
