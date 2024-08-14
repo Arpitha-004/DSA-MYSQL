@@ -136,11 +136,13 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Arpitha-004/DSA/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Arpitha-004/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Arpitha-004/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Arpitha-004/DSA/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/Arpitha-004/DSA/tree/master/0812-rotate-string) |
 ## Breadth-First Search
 |  |
@@ -155,6 +157,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Arpitha-004/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/Arpitha-004/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
