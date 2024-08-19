@@ -118,6 +118,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Arpitha-004/DSA/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Arpitha-004/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
