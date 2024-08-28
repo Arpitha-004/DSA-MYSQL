@@ -106,6 +106,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arpitha-004/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Arpitha-004/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Arpitha-004/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Arpitha-004/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Arpitha-004/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arpitha-004/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -173,6 +174,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Arpitha-004/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Arpitha-004/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
@@ -204,4 +206,8 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Arpitha-004/DSA/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Arpitha-004/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
