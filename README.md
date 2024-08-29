@@ -104,6 +104,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Arpitha-004/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Arpitha-004/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Arpitha-004/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Arpitha-004/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -121,6 +122,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Arpitha-004/DSA/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Arpitha-004/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Arpitha-004/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -157,6 +159,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Arpitha-004/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Arpitha-004/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Arpitha-004/DSA/tree/master/0073-set-matrix-zeroes) |
 | [1036-rotting-oranges](https://github.com/Arpitha-004/DSA/tree/master/1036-rotting-oranges) |
