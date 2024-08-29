@@ -105,6 +105,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arpitha-004/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Arpitha-004/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Arpitha-004/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Arpitha-004/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Arpitha-004/DSA/tree/master/0088-merge-sorted-array) |
@@ -156,6 +157,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Arpitha-004/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Arpitha-004/DSA/tree/master/0073-set-matrix-zeroes) |
 | [1036-rotting-oranges](https://github.com/Arpitha-004/DSA/tree/master/1036-rotting-oranges) |
 ## Hash Table
@@ -210,4 +212,8 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Arpitha-004/DSA/tree/master/0078-subsets) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Arpitha-004/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
