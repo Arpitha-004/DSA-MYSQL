@@ -131,6 +131,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | [0088-merge-sorted-array](https://github.com/Arpitha-004/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Arpitha-004/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Arpitha-004/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Arpitha-004/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Arpitha-004/DSA/tree/master/0189-rotate-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Arpitha-004/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Database
@@ -168,6 +169,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Arpitha-004/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Arpitha-004/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Arpitha-004/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Arpitha-004/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Arpitha-004/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
@@ -204,6 +206,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Arpitha-004/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Arpitha-004/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Arpitha-004/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Arpitha-004/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Arpitha-004/DSA/tree/master/0908-middle-of-the-linked-list) |
