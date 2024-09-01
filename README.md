@@ -219,4 +219,16 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Arpitha-004/DSA/tree/master/0054-spiral-matrix) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Arpitha-004/DSA/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Arpitha-004/DSA/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Arpitha-004/DSA/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
