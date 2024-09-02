@@ -104,6 +104,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Arpitha-004/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Arpitha-004/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Arpitha-004/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Arpitha-004/DSA/tree/master/0054-spiral-matrix) |
@@ -128,6 +129,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Arpitha-004/DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Arpitha-004/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Arpitha-004/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Arpitha-004/DSA/tree/master/0141-linked-list-cycle) |
