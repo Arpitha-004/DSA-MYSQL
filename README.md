@@ -114,6 +114,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | [0118-pascals-triangle](https://github.com/Arpitha-004/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arpitha-004/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arpitha-004/DSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Arpitha-004/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Arpitha-004/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Arpitha-004/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
@@ -147,6 +148,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Arpitha-004/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Arpitha-004/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Arpitha-004/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
 ## String
@@ -174,6 +176,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | [0073-set-matrix-zeroes](https://github.com/Arpitha-004/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Arpitha-004/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Arpitha-004/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Arpitha-004/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Arpitha-004/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Arpitha-004/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
@@ -192,6 +195,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arpitha-004/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Arpitha-004/DSA/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -239,4 +243,8 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Arpitha-004/DSA/tree/master/0110-balanced-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Arpitha-004/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
