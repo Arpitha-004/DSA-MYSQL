@@ -118,6 +118,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | [0189-rotate-array](https://github.com/Arpitha-004/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Arpitha-004/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
+| [0665-non-decreasing-array](https://github.com/Arpitha-004/DSA/tree/master/0665-non-decreasing-array) |
 | [0792-binary-search](https://github.com/Arpitha-004/DSA/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/Arpitha-004/DSA/tree/master/1036-rotting-oranges) |
 ## Math
