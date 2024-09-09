@@ -122,6 +122,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | [0665-non-decreasing-array](https://github.com/Arpitha-004/DSA/tree/master/0665-non-decreasing-array) |
 | [0792-binary-search](https://github.com/Arpitha-004/DSA/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/Arpitha-004/DSA/tree/master/1036-rotting-oranges) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Arpitha-004/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -154,6 +155,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | [0242-valid-anagram](https://github.com/Arpitha-004/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Arpitha-004/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Arpitha-004/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## String
 |  |
 | ------- |
@@ -185,6 +187,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | [0242-valid-anagram](https://github.com/Arpitha-004/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Arpitha-004/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Arpitha-004/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Binary Search
 |  |
 | ------- |
