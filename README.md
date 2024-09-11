@@ -134,6 +134,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arpitha-004/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arpitha-004/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Arpitha-004/DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Arpitha-004/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Arpitha-004/DSA/tree/master/0125-valid-palindrome) |
@@ -160,6 +161,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arpitha-004/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arpitha-004/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Arpitha-004/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Arpitha-004/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Arpitha-004/DSA/tree/master/0242-valid-anagram) |
@@ -219,6 +221,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arpitha-004/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/Arpitha-004/DSA/tree/master/0812-rotate-string) |
 ## Linked List
 |  |
