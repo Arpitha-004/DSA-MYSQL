@@ -173,6 +173,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | [0242-valid-anagram](https://github.com/Arpitha-004/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Arpitha-004/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Arpitha-004/DSA/tree/master/0812-rotate-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Arpitha-004/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -285,4 +286,12 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpitha-004/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Arpitha-004/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Arpitha-004/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
