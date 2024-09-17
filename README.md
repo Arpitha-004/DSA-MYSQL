@@ -166,6 +166,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arpitha-004/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Arpitha-004/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arpitha-004/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Arpitha-004/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Arpitha-004/DSA/tree/master/0125-valid-palindrome) |
@@ -289,6 +290,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Arpitha-004/DSA/tree/master/0020-valid-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Arpitha-004/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
