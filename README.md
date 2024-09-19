@@ -104,6 +104,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Arpitha-004/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Arpitha-004/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Arpitha-004/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Arpitha-004/DSA/tree/master/0049-group-anagrams) |
@@ -136,6 +137,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arpitha-004/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Arpitha-004/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arpitha-004/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arpitha-004/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Arpitha-004/DSA/tree/master/0031-next-permutation) |
@@ -154,6 +156,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Arpitha-004/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Arpitha-004/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Arpitha-004/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Arpitha-004/DSA/tree/master/0169-majority-element) |
