@@ -182,6 +182,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 ## Breadth-First Search
 |  |
 | ------- |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Arpitha-004/DSA/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1036-rotting-oranges](https://github.com/Arpitha-004/DSA/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
@@ -265,12 +266,14 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Arpitha-004/DSA/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Arpitha-004/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Arpitha-004/DSA/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Arpitha-004/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Arpitha-004/DSA/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Arpitha-004/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Arpitha-004/DSA/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Binary Tree
 |  |
 | ------- |
