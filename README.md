@@ -174,6 +174,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arpitha-004/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Arpitha-004/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Arpitha-004/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Arpitha-004/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arpitha-004/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Arpitha-004/DSA/tree/master/0049-group-anagrams) |
@@ -317,4 +318,8 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Arpitha-004/DSA/tree/master/0783-search-in-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Arpitha-004/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
