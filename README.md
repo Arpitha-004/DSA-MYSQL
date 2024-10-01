@@ -129,6 +129,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | [0792-binary-search](https://github.com/Arpitha-004/DSA/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/Arpitha-004/DSA/tree/master/1036-rotting-oranges) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Arpitha-004/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Arpitha-004/DSA/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Math
 |  |
 | ------- |
