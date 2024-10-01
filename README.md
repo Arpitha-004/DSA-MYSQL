@@ -121,6 +121,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | [0169-majority-element](https://github.com/Arpitha-004/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Arpitha-004/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpitha-004/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Arpitha-004/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Arpitha-004/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Arpitha-004/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
@@ -164,6 +165,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | [0088-merge-sorted-array](https://github.com/Arpitha-004/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Arpitha-004/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arpitha-004/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Arpitha-004/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Arpitha-004/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Arpitha-004/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
@@ -206,6 +208,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | [0160-intersection-of-two-linked-lists](https://github.com/Arpitha-004/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Arpitha-004/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Arpitha-004/DSA/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Arpitha-004/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Arpitha-004/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Arpitha-004/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
