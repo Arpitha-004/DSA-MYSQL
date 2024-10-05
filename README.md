@@ -281,6 +281,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | [0543-diameter-of-binary-tree](https://github.com/Arpitha-004/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Arpitha-004/DSA/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Arpitha-004/DSA/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Arpitha-004/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -294,6 +295,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | [0450-delete-node-in-a-bst](https://github.com/Arpitha-004/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Arpitha-004/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Arpitha-004/DSA/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Arpitha-004/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Counting
 |  |
 | ------- |
@@ -327,6 +329,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Arpitha-004/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Arpitha-004/DSA/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Arpitha-004/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Trie
 |  |
 | ------- |
