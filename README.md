@@ -177,6 +177,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Arpitha-004/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Arpitha-004/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Arpitha-004/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Arpitha-004/DSA/tree/master/0014-longest-common-prefix) |
@@ -205,6 +206,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Arpitha-004/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Arpitha-004/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Arpitha-004/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Arpitha-004/DSA/tree/master/0141-linked-list-cycle) |
@@ -340,5 +342,6 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Arpitha-004/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arpitha-004/DSA/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
