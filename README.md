@@ -128,6 +128,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | [0665-non-decreasing-array](https://github.com/Arpitha-004/DSA/tree/master/0665-non-decreasing-array) |
 | [0792-binary-search](https://github.com/Arpitha-004/DSA/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/Arpitha-004/DSA/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/Arpitha-004/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Arpitha-004/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Arpitha-004/DSA/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Math
@@ -222,6 +223,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | ------- |
 | [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Arpitha-004/DSA/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/Arpitha-004/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -246,6 +248,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Arpitha-004/DSA/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/Arpitha-004/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## String Matching
 |  |
 | ------- |
@@ -334,4 +337,8 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Arpitha-004/DSA/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Arpitha-004/DSA/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
