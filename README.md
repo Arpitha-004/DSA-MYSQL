@@ -135,6 +135,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Arpitha-004/DSA/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Arpitha-004/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Arpitha-004/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Arpitha-004/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
@@ -182,6 +183,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arpitha-004/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Arpitha-004/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Arpitha-004/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Arpitha-004/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Arpitha-004/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Arpitha-004/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arpitha-004/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -210,6 +212,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arpitha-004/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Arpitha-004/DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Arpitha-004/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Arpitha-004/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Arpitha-004/DSA/tree/master/0141-linked-list-cycle) |
