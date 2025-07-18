@@ -8,16 +8,14 @@ class Solution {
         mpp.put('C',100);
         mpp.put('D',500);
         mpp.put('M',1000);
-
-        int n=s.length();
-        int result = mpp.get(s.charAt(n-1));
-        for(int i=n-2;i>=0;i--){
-            if(mpp.get(s.charAt(i)) < mpp.get(s.charAt(i+1))){
-                result-=mpp.get(s.charAt(i));
-            }else{
-                result+=mpp.get(s.charAt(i));
-            }
+        int n = s.length()-1;
+        int sum = mpp.get(s.charAt(n));
+        for(int i=n-1;i>=0;i--){
+            if(mpp.get(s.charAt(i)) >= mpp.get(s.charAt(i+1)))
+                sum+=mpp.get(s.charAt(i));
+            else
+                sum-=mpp.get(s.charAt(i));
         }
-        return result;
+        return sum;
     }
 }
