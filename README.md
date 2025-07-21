@@ -125,6 +125,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | [0229-majority-element-ii](https://github.com/Arpitha-004/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Arpitha-004/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Arpitha-004/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0665-non-decreasing-array](https://github.com/Arpitha-004/DSA/tree/master/0665-non-decreasing-array) |
 | [0792-binary-search](https://github.com/Arpitha-004/DSA/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/Arpitha-004/DSA/tree/master/1036-rotting-oranges) |
@@ -155,6 +156,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | [0151-reverse-words-in-a-string](https://github.com/Arpitha-004/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arpitha-004/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Arpitha-004/DSA/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Arpitha-004/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Arpitha-004/DSA/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Arpitha-004/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Database
@@ -230,6 +232,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Arpitha-004/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Arpitha-004/DSA/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arpitha-004/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation
@@ -238,6 +241,7 @@ IMPORTANT!!! Tried Different Kinds of solutions so do follow the commits / histo
 | [0078-subsets](https://github.com/Arpitha-004/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Arpitha-004/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Arpitha-004/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Arpitha-004/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
